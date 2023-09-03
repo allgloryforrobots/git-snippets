@@ -9,3 +9,6 @@ git checkout -b new
 
 удалить файл из добавленных  к отслеживанию
 git rm --cashed file.txt
+
+все изменения
+git reflog
